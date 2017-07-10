@@ -1,4 +1,5 @@
-https://github.com/dumpling001/writing_explore_3 我建了一个项目，有进度、目标、经验总结、课程说明文件，这些文件后续我会维护。
+https://github.com/***
+3 我建了一个项目，有进度、目标、经验总结、课程说明文件，这些文件后续我会维护。
 
 目前想法是，大家fork这个项目，然后邀请我做协作者，每次修改完毕，提交pull request，我看后，给出反馈，反馈会结合微信和git协作的沟通方式。
 
@@ -12,8 +13,8 @@ https://github.com/dumpling001/writing_explore_3 我建了一个项目，有进�
 
 2017-7-10 12:38
 ***
-https://www.tapd.cn/invite_confirms/link_invite_activate?token=b051662a0e18d20dfc074ff4048324ae 我用了TAPD-腾讯敏捷产品研发平台做项目管理，给各位的进度已经单独建了看板。如果大家愿意可以接受邀请成为团队成员，自己管理自己的进度；不想弄的话我帮你们更新进度情况。操作很简单。
-![](./images/tapd_01.png)
+https://www.tapd.cn/invite_confirms/*** 我用了TAPD-腾讯敏捷产品研发平台做项目管理，给各位的进度已经单独建了看板。如果大家愿意可以接受邀请成为团队成员，自己管理自己的进度；不想弄的话我帮你们更新进度情况。操作很简单。
+
 ![](./images/tapd_02.png)
 
 2017-7-10 15:26

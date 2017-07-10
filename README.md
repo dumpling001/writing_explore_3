@@ -123,19 +123,20 @@ Cypher: I don’t want to remember nothing. Nothing. You understand? And I want 
 
 相关阅读：
 
-第二期写作训练营的学员总结
+[第二期写作训练营的学员总结](https://mp.weixin.qq.com/s?__biz=MzAxNjUzNzY1Mw==&mid=2651682947&idx=2&sn=955bae7dea8a247ef1c4e9968f2f8de1&chksm=800a99d9b77d10cf15abd90977a2e689707606120b1037959d6998f55c3037628ba59ee6fbf7&scene=21#wechat_redirect)
 
-写作训练学员总结（节选）
+[写作训练学员总结（节选）](https://mp.weixin.qq.com/s?__biz=MzAxNjUzNzY1Mw==&mid=2651682868&idx=1&sn=8d605f82451ecdb0784ee574dc3334c9&chksm=800a996eb77d1078649b04db56d54795a6a807cf3353b3ba3a0fd1d68805cefa639a7411d843&scene=21#wechat_redirect)
 
-2016国庆写作训练指导总结
+[2016国庆写作训练指导总结](https://mp.weixin.qq.com/s?__biz=MzAxNjUzNzY1Mw==&mid=2651682865&idx=1&sn=53ee49df3427253e603089f76312e83d&chksm=800a996bb77d107d9542a8f11f0723468152114b68e294689c26c2a76d7ef0133007c9c8615c&scene=21#wechat_redirect)
 
-168元21小时写作从0到1突破
+[168元21小时写作从0到1突破](https://mp.weixin.qq.com/s?__biz=MzAxNjUzNzY1Mw==&mid=2651682844&idx=2&sn=1bcdf65f39bfda73df337cae38ed3317&chksm=800a9946b77d1050aa19b2903c6289e46b7d46ec30ad779538cedab434ed219c5ae450920ea1&scene=21#wechat_redirect)
 
 ## 参考资料：
 
-《黑客帝国》第一部台词
-http://blog.sina.com.cn/s/blog_5082b8240106e50o.html
-M Scott Peck
-https://www.theguardian.com/news/2005/oct/05/guardianobituaries.booksobituaries
-构成我人生哲学之根基的书
-https://book.douban.com/review/5328745/
+* [《黑客帝国》第一部台词](http://blog.sina.com.cn/s/blog_5082b8240106e50o.html)
+
+
+
+* [M Scott Peck](https://www.theguardian.com/news/2005/oct/05/guardianobituaries.booksobituaries)
+
+* [构成我人生哲学之根基的书](https://book.douban.com/review/5328745/)
